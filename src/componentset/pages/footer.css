@@ -1,0 +1,43 @@
+
+footer {
+    background: rgb(46, 4, 86);
+    display:flex;
+    margin-top: 200px;
+}
+.sitemap{
+    color:rgb(97, 226, 226);
+   float:left;
+   width:60%;
+  justify-content: start;
+  margin-top: 20px;
+}
+.sitemap h5{
+    display: flex;
+    align-items:center;
+    margin-left: 200px;
+    color:rgb(157, 153, 153);
+}
+.sitemap h4{
+    color:rgb(157, 153, 153);
+    margin-left: 300px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    align-items:end;
+}
+.contact{
+    margin-top: 20px;
+    color:rgb(97, 226, 226);
+    float:right;
+   width:40%;
+}
+footer ul li {
+color:white;
+text-decoration: none;
+list-style: none;
+
+}
+.link{
+    color:white;
+    text-decoration: none;
+    list-style: none;
+}

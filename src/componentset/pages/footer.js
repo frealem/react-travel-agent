@@ -6,7 +6,7 @@ export const Footer =()=>{
             <div className="sitemap">
                 <h3>Site Map</h3>
               <ul>  <li><Link className="link" to='/Home'>Home</Link></li>
-                <li><Link className="link" to='/Service'>Service</Link></li>
+                <li><Link className="link" to='/Service'>Booking</Link></li>
                 <li><Link className="link" to='/Contact'>Contact</Link></li>
                 <li><Link className="link" to='/About'>about</Link></li></ul>
                 

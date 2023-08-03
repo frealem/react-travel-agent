@@ -16,7 +16,7 @@ return (
     </div>
         <div className={clicked ? "navItem active": "navItem"}>
             <li><Link className="nav-link-home" to='/'><i class="fa fa-home" aria-hidden="true"></i></Link></li>
-            <li><Link className="nav-link" to='/Service'>Service</Link></li>
+            <li><Link className="nav-link" to='/Service'>Booking</Link></li>
             <li><Link className="nav-link" to='/Contact'>Contact</Link></li>
             <li><Link className="nav-link" to='/About'>About</Link></li>
             <li><button className="nav-link-sign">sign Up</button> </li>
